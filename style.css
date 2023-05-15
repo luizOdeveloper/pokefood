@@ -232,4 +232,13 @@ section.footer{
         width: 100%
     }
 
+    .conteudo-sobre p{
+        font-size: 10px;
+    }
+
+    .l span{
+        font-size: 10px;
+    }
+
+   
 }
